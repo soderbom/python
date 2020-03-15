@@ -27,8 +27,8 @@ def create_addition(write_to_file, number_of_excercies):
     first_term = []
     second_term = []
     for i in range(number_of_excercies):
-        first_term.append(str(rnd.randint(199, 1999)).rjust(7, ' '))                               #Fyll på listorna med slumpvisa tal, samt justera dessa så de har samma längd så vi får en snygg uppställning. Använd sträng för att förändra positioner
-        second_term.append(str(rnd.randint(199, 1999)).rjust(7, ' '))
+        first_term.append(str(rnd.randint(199, 9999)).rjust(7, ' '))                               #Fyll på listorna med slumpvisa tal, samt justera dessa så de har samma längd så vi får en snygg uppställning. Använd sträng för att förändra positioner
+        second_term.append(str(rnd.randint(199, 9999)).rjust(7, ' '))
 
     if write_to_file:
         write_to_file_func(first_term, second_term, '+')                                           #Om vi vill skriva filen så skickar vi även med korrekt räknesätt
