@@ -41,7 +41,7 @@ def create_subtraction(write_to_file, number_of_excercies):
     first_term = []
     second_term = []
     for i in range(number_of_excercies):
-        first_term.append(str(rnd.randint(1299, 1999)).rjust(7, ' '))
+        first_term.append(str(rnd.randint(1299, 9999)).rjust(7, ' '))
         second_term.append(str(rnd.randint(199, 1199)).rjust(7, ' '))                              #Justerad nämnare för lite snällare tal
 
     if write_to_file:
