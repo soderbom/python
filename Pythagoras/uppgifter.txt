@@ -1,0 +1,36 @@
+1. Beräkna hypotenusan för en triangel med kateterna 6 mm och 2 mm.
+
+
+2. Beräkna hypotenusan för en triangel med kateterna 11 m och 12 m.
+
+
+3. Är triangeln rätvinklig?
+	Kateter: 17 mm och 22 mm
+	Hypotenusa: 24.0 mm
+
+
+4. Är triangeln rätvinklig?
+	Kateter: 14 m och 11 m
+	Hypotenusa: 17.8 m
+
+
+5. Beräkna kateten hos en triangel vars ena katet är 8 cm och dess hypotenusa är 19 cm.
+
+
+6. Beräkna kateten hos en triangel vars ena katet är 1 m och dess hypotenusa är 19 m.
+
+
+7. Beräkna kateten hos en triangel vars ena katet är 9 m och dess hypotenusa är 20 m.
+
+
+8. Beräkna kateten hos en triangel vars ena katet är 9 m och dess hypotenusa är 20 m.
+
+
+9. Beräkna kateten hos en triangel vars ena katet är 11 m och dess hypotenusa är 15 m.
+
+
+10. Är triangeln rätvinklig?
+	Kateter: 12 cm och 22 cm
+	Hypotenusa: 19.2 cm
+
+
